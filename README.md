@@ -33,7 +33,7 @@ The format of the config file is also simple, for example:
 
 I hope you have fun playing with this. It suits my workflow as it is, but you may wish to change/amend it to suit your purposes. I also use:
 
-    tickler.pl -ls
+    tickler.pl ls
     
 through Conky (Linux) and Geektool (OS X) to provide a continuous update of what's possibly tickling on my desktops. Integrating it with Dropbox allows usage across a range of computers and OSs.
 
