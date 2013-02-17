@@ -19,7 +19,7 @@ The format of each line of the data file, **tickler.txt**, is as follows:
 
     YYMMDD DD/MM/YY Text of the item to be tickled
 
-The second field (DD/MM/YY) reflects my location (UK). However, this may be amended in **.tickler**, the configuration file, to reflect the input of other users. (eg. MM/DD/YY or YY/MM/DD).
+The second field (DD/MM/YY) reflects my location (UK). However, this may be amended in **.tickler**, the configuration file, to reflect the input of other users. (ie. MM/DD/YY or YY/MM/DD).
 
 The format of the config file is also simple, for example:
 
