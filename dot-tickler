@@ -1,0 +1,11 @@
+# === EDIT FILE LOCATIONS BELOW ===
+
+# Your tickler.txt directory
+TICKLER_DIR="/home/myhomedirectory/Dropbox/todo"
+
+# Your todo.txt directory
+TODO_DIR="/home/myhomedirectory/Dropbox/todo"
+
+# Your preference for date entry on the command-line
+DATE_FORMAT="dd/mm/yy"
+
