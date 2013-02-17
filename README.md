@@ -11,7 +11,7 @@ For usage, type:
 
     tickler.pl -h
 
-The data file is held at a location of the user's choice, based on a config file (**.tickler**) held in the user's home directory.
+The data file is held at a location of the user's choice, based on a config file ( **\.tickler** ) held in the user's home directory.
 
 **tickler.pl** is reasonably well-documented code, so anyone with a basic Perl knowledge should be able to amend it to suit their purposes.
 
